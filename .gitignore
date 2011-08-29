@@ -1,0 +1,11 @@
+.DS_Store
+nbproject
+.idea
+extjs
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
